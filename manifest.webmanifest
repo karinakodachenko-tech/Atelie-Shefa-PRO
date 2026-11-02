@@ -1,0 +1,10 @@
+{
+  "name": "Ательє Шефа PRO",
+  "short_name": "Ательє Шефа",
+  "lang": "uk",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0d0e",
+  "theme_color": "#111111",
+  "icons": []
+}
